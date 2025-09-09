@@ -1,7 +1,5 @@
 Load cells
-Difficulty: 1 
 
-This project will serve as the initial onboarding project for the Firmware subteam. 
 Prerequisites: C++, Github
 
 On the robot, we have a pair of load cells underneath the main deposition bucket. Their purpose was supposed to be to let us know when the robot was full, allowing it to autonomously know when to stop digging and when the time comes to deposit. However, the code for them was never finished. 
